@@ -3,6 +3,6 @@ def test001():
     print("模式更新")
     print("模式更新2")
 def test002():
-    print("test002执 行")
+    print("test002执行222")
 if __name__ == '__main__':
     test001()
